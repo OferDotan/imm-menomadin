@@ -1,5 +1,8 @@
 import os, csv
 import src.main as main
+import sys
+sys.path.insert(0, 'src')
+import main as main
 
 def test_run_pipeline_creates_csv(monkeypatch, tmp_path):
     dummy_data = [{
