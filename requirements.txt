@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+python-dateutil
+pytz
+pandas
+python-dotenv
+feedparser
+gspread
+google-auth
+jinja2
+pytest
